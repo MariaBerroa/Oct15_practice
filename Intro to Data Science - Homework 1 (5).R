@@ -1,3 +1,5 @@
+Emily is the coolest person ever and is so amzing.
+GitHub sucks!
 #QUESTION 1 - approved vs defeated bonds
 table(bonds$Result)
 #Differences in the rates of approved bonds across the four different government types
